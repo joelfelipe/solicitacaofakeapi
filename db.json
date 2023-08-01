@@ -1,6 +1,6 @@
 {
     "solicitacoes": [
-        {
+            {
             "id": 1,
             "assessor": "Assessor José",
             "coordenador": "Everaldo Cortês",
@@ -291,7 +291,7 @@
                 },
                 {
                     "id": 30,
-                    "nome": "JOão Guilheme Nepomuceno",
+                    "nome": "João Guilheme Nepomuceno",
                     "sicad": 12345630,
                     "cpf": "98454403043",
                     "status": 3
@@ -299,7 +299,7 @@
             ]
         }
     ],
-    "statusSolicitacao": [
+    "statussol": [
         {
             "statusId": 0,
             "statusNome": "Pendente"
@@ -317,7 +317,7 @@
             "statusNome": "Sucesso"
         }
     ],
-    "statusCliente": [
+    "statuscli": [
         {
             "statusId": 0,
             "statusNome": "Pendente"
