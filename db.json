@@ -1,0 +1,554 @@
+{
+    "solicitacoes": [
+        {
+            "id": 1,
+            "assessor": "Assessor José",
+            "coordenador": "Everaldo Cortês",
+            "status": 0,
+            "clientes": [
+                {
+                    "id": 1,
+                    "nome": "Everaldo Cortês",
+                    "sicad": 12345601,
+                    "cpf": "64278949359",
+                    "status": 0
+                },
+                {
+                    "id": 2,
+                    "nome": "Catarina Márcia Abreu",
+                    "sicad": 12345602,
+                    "cpf": "48513751154",
+                    "status": 0
+                },
+                {
+                    "id": 3,
+                    "nome": "Miguel Pedro Ávila de D'ávila",
+                    "sicad": 12345603,
+                    "cpf": "92693632013",
+                    "status": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "assessor": "Assessora Maria",
+            "coordenador": "Isadora Paula Caldeira de Gomes",
+            "status": 0,
+            "clientes": [
+                {
+                    "id": 4,
+                    "nome": "Isadora Paula Caldeira de Gomes",
+                    "sicad": 12345604,
+                    "cpf": "03457380473",
+                    "status": 0
+                },
+                {
+                    "id": 5,
+                    "nome": "Adônis Artur Marés Ortiz da Silva",
+                    "sicad": 12345605,
+                    "cpf": "96243564592",
+                    "status": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "assessor": "Assessor José",
+            "coordenador": "Benjamin Godói de Arruda",
+            "status": 0,
+            "clientes": [
+                {
+                    "id": 6,
+                    "nome": "Benjamin Godói de Arruda",
+                    "sicad": 12345606,
+                    "cpf": "52444214170",
+                    "status": 1
+                },
+                {
+                    "id": 7,
+                    "nome": "Jonathas Patrick Delgado de Pontes",
+                    "sicad": 12345607,
+                    "cpf": "07661285983",
+                    "status": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "assessor": "Assessora Maria",
+            "coordenador": "Oséas Faro da Luz",
+            "status": 1,
+            "clientes": [
+                {
+                    "id": 8,
+                    "nome": "Oséas Faro da Luz",
+                    "sicad": 12345608,
+                    "cpf": "68326459887",
+                    "status": 1
+                },
+                {
+                    "id": 9,
+                    "nome": "Hellen Montenegro de Quintana",
+                    "sicad": 12345609,
+                    "cpf": "52469256682",
+                    "status": 1
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "assessor": "Assessor José",
+            "coordenador": "Matheus Victor Colaço",
+            "status": 1,
+            "clientes": [
+                {
+                    "id": 10,
+                    "nome": "Matheus Victor Colaço",
+                    "sicad": 12345610,
+                    "cpf": "01774326914",
+                    "status": 2
+                },
+                {
+                    "id": 11,
+                    "nome": "Bianca Campos da Lira",
+                    "sicad": 12345611,
+                    "cpf": "34558757263",
+                    "status": 2
+                },
+                {
+                    "id": 12,
+                    "nome": "Emília Gusmão",
+                    "sicad": 12345612,
+                    "cpf": "12069443744",
+                    "status": 2
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "assessor": "Assessora Maria",
+            "coordenador": "Jácomo Barreto Vale",
+            "status": 1,
+            "clientes": [
+                {
+                    "id": 13,
+                    "nome": "Jácomo Barreto Vale",
+                    "sicad": 12345613,
+                    "cpf": "49763658918",
+                    "status": 2
+                },
+                {
+                    "id": 14,
+                    "nome": "Eliel Bittencourt Brasil",
+                    "sicad": 12345614,
+                    "cpf": "22028247908",
+                    "status": 3
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "assessor": "Assessor Márcio",
+            "coordenador": "Hortência Michele Ferreira",
+            "status": 2,
+            "clientes": [
+                {
+                    "id": 15,
+                    "nome": "Hortência Michele Ferreira",
+                    "sicad": 12345615,
+                    "cpf": "19993737585",
+                    "status": 3
+                },
+                {
+                    "id": 16,
+                    "nome": "Heloísa Sônia Escobar Coutinho",
+                    "sicad": 12345616,
+                    "cpf": "97836262138",
+                    "status": 3
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "assessor": "Assessora Socorro",
+            "coordenador": "Kelly Mirela Padilha Santana Fragoso",
+            "status": 2,
+            "clientes": [
+                {
+                    "id": 17,
+                    "nome": "Kelly Mirela Padilha Santana Fragoso",
+                    "sicad": 12345617,
+                    "cpf": "56881321678",
+                    "status": 3
+                },
+                {
+                    "id": 18,
+                    "nome": "Santiago Murilo de Bezerra",
+                    "sicad": 12345618,
+                    "cpf": "85871374336",
+                    "status": 4
+                },
+                {
+                    "id": 19,
+                    "nome": "Samila Gil Fragoso",
+                    "sicad": 12345619,
+                    "cpf": "86941489510",
+                    "status": 4
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "assessor": "Assessor Yuri",
+            "coordenador": "Clotilde Delvalle",
+            "status": 2,
+            "clientes": [
+                {
+                    "id": 20,
+                    "nome": "Clotilde Delvalle",
+                    "sicad": 12345620,
+                    "cpf": "42201563489",
+                    "status": 4
+                },
+                {
+                    "id": 21,
+                    "nome": "João da Silva Neto",
+                    "sicad": 12345621,
+                    "cpf": "54411117126",
+                    "status": 4
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "assessor": "Assessora Clíssia",
+            "coordenador": "Camila Nepomuceno",
+            "status": 3,
+            "clientes": [
+                {
+                    "id": 22,
+                    "nome": "Camila Nepomuceno",
+                    "sicad": 12345622,
+                    "cpf": "02614008001",
+                    "status": 0
+                },
+                {
+                    "id": 23,
+                    "nome": "Maria da Graças",
+                    "sicad": 12345623,
+                    "cpf": "70316605050",
+                    "status": 0
+                },
+                {
+                    "id": 24,
+                    "nome": "Miguel Arruda",
+                    "sicad": 12345624,
+                    "cpf": "85359887001",
+                    "status": 1
+                },
+                {
+                    "id": 25,
+                    "nome": "Cristiano Valadão",
+                    "sicad": 12345625,
+                    "cpf": "39696646089",
+                    "status": 1
+                },
+                {
+                    "id": 26,
+                    "nome": "Marcio Sena",
+                    "sicad": 12345626,
+                    "cpf": "31185992006",
+                    "status": 1
+                },
+                {
+                    "id": 27,
+                    "nome": "Acrísio Lopes",
+                    "sicad": 12345627,
+                    "cpf": "24110439027",
+                    "status": 2
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "assessor": "Assessor Caique",
+            "coordenador": "Graziele Gomes",
+            "status": 3,
+            "clientes": [
+                {
+                    "id": 28,
+                    "nome": "Graziele Gomes",
+                    "sicad": 12345628,
+                    "cpf": "20319367002",
+                    "status": 0
+                },
+                {
+                    "id": 29,
+                    "nome": "Cristina Alves",
+                    "sicad": 12345629,
+                    "cpf": "21929494050",
+                    "status": 4
+                },
+                {
+                    "id": 30,
+                    "nome": "JOão Guilheme Nepomuceno",
+                    "sicad": 12345630,
+                    "cpf": "98454403043",
+                    "status": 3
+                }
+            ]
+        }
+    ],
+    "clientes": [
+        {
+            "id": 1,
+            "nome": "Everaldo Cortês",
+            "sicad": 12345601,
+            "cpf": "64278949359",
+            "status": 0
+        },
+        {
+            "id": 2,
+            "nome": "Catarina Márcia Abreu",
+            "sicad": 12345602,
+            "cpf": "48513751154",
+            "status": 0
+        },
+        {
+            "id": 3,
+            "nome": "Miguel Pedro Ávila de D'ávila",
+            "sicad": 12345603,
+            "cpf": "92693632013",
+            "status": 0
+        },
+        {
+            "id": 4,
+            "nome": "Isadora Paula Caldeira de Gomes",
+            "sicad": 12345604,
+            "cpf": "03457380473",
+            "status": 0
+        },
+        {
+            "id": 5,
+            "nome": "Adônis Artur Marés Ortiz da Silva",
+            "sicad": 12345605,
+            "cpf": "96243564592",
+            "status": 0
+        },
+        {
+            "id": 6,
+            "nome": "Benjamin Godói de Arruda",
+            "sicad": 12345606,
+            "cpf": "52444214170",
+            "status": 1
+        },
+        {
+            "id": 7,
+            "nome": "Jonathas Patrick Delgado de Pontes",
+            "sicad": 12345607,
+            "cpf": "07661285983",
+            "status": 1
+        },
+        {
+            "id": 8,
+            "nome": "Oséas Faro da Luz",
+            "sicad": 12345608,
+            "cpf": "68326459887",
+            "status": 1
+        },
+        {
+            "id": 9,
+            "nome": "Hellen Montenegro de Quintana",
+            "sicad": 12345609,
+            "cpf": "52469256682",
+            "status": 1
+        },
+        {
+            "id": 10,
+            "nome": "Matheus Victor Colaço",
+            "sicad": 12345610,
+            "cpf": "01774326914",
+            "status": 2
+        },
+        {
+            "id": 11,
+            "nome": "Bianca Campos da Lira",
+            "sicad": 12345611,
+            "cpf": "34558757263",
+            "status": 2
+        },
+        {
+            "id": 12,
+            "nome": "Emília Gusmão",
+            "sicad": 12345612,
+            "cpf": "12069443744",
+            "status": 2
+        },
+        {
+            "id": 13,
+            "nome": "Jácomo Barreto Vale",
+            "sicad": 12345613,
+            "cpf": "49763658918",
+            "status": 2
+        },
+        {
+            "id": 14,
+            "nome": "Eliel Bittencourt Brasil",
+            "sicad": 12345614,
+            "cpf": "22028247908",
+            "status": 3
+        },
+        {
+            "id": 15,
+            "nome": "Hortência Michele Ferreira",
+            "sicad": 12345615,
+            "cpf": "19993737585",
+            "status": 3
+        },
+        {
+            "id": 16,
+            "nome": "Heloísa Sônia Escobar Coutinho",
+            "sicad": 12345616,
+            "cpf": "97836262138",
+            "status": 3
+        },
+        {
+            "id": 17,
+            "nome": "Kelly Mirela Padilha Santana Fragoso",
+            "sicad": 12345617,
+            "cpf": "56881321678",
+            "status": 3
+        },
+        {
+            "id": 18,
+            "nome": "Santiago Murilo de Bezerra",
+            "sicad": 12345618,
+            "cpf": "85871374336",
+            "status": 4
+        },
+        {
+            "id": 19,
+            "nome": "Samila Gil Fragoso",
+            "sicad": 12345619,
+            "cpf": "86941489510",
+            "status": 4
+        },
+        {
+            "id": 20,
+            "nome": "Clotilde Delvalle",
+            "sicad": 12345620,
+            "cpf": "42201563489",
+            "status": 4
+        },
+        {
+            "id": 21,
+            "nome": "João da Silva Neto",
+            "sicad": 12345621,
+            "cpf": "54411117126",
+            "status": 4
+        },
+        {
+            "id": 22,
+            "nome": "Camila Nepomuceno",
+            "sicad": 12345622,
+            "cpf": "02614008001",
+            "status": 0
+        },
+        {
+            "id": 23,
+            "nome": "Maria da Graças",
+            "sicad": 12345623,
+            "cpf": "70316605050",
+            "status": 0
+        },
+        {
+            "id": 24,
+            "nome": "Miguel Arruda",
+            "sicad": 12345624,
+            "cpf": "85359887001",
+            "status": 1
+        },
+        {
+            "id": 25,
+            "nome": "Cristiano Valadão",
+            "sicad": 12345625,
+            "cpf": "39696646089",
+            "status": 1
+        },
+        {
+            "id": 26,
+            "nome": "Marcio Sena",
+            "sicad": 12345626,
+            "cpf": "31185992006",
+            "status": 1
+        },
+        {
+            "id": 27,
+            "nome": "Acrísio Lopes",
+            "sicad": 12345627,
+            "cpf": "24110439027",
+            "status": 2
+        },
+        {
+            "id": 28,
+            "nome": "Graziele Gomes",
+            "sicad": 12345628,
+            "cpf": "20319367002",
+            "status": 0
+        },
+        {
+            "id": 29,
+            "nome": "Cristina Alves",
+            "sicad": 12345629,
+            "cpf": "21929494050",
+            "status": 4
+        },
+        {
+            "id": 30,
+            "nome": "JOão Guilheme Nepomuceno",
+            "sicad": 12345630,
+            "cpf": "98454403043",
+            "status": 3
+        }
+    ],
+    "statusSolicitacao": [
+        {
+            "statusId": 0,
+            "statusNome": "Pendente"
+        },
+        {
+            "statusId": 1,
+            "statusNome": "Reenviado"
+        },
+        {
+            "statusId": 2,
+            "statusNome": "Falha"
+        },
+        {
+            "statusId": 3,
+            "statusNome": "Sucesso"
+        }
+    ],
+    "statusCliente": [
+        {
+            "statusId": 0,
+            "statusNome": "Pendente"
+        },
+        {
+            "statusId": 1,
+            "statusNome": "Sem Erro"
+        },
+        {
+            "statusId": 2,
+            "statusNome": "Com Erro"
+        },
+        {
+            "statusId": 3,
+            "statusNome": "Falha"
+        },
+        {
+            "statusId": 4,
+            "statusNome": "Sucesso"
+        }
+    ]
+}
